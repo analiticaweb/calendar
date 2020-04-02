@@ -16,10 +16,10 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20200402T171114Z
-UID:20200402T171114Z-759746054@marudot.com
+DTSTAMP:20200402T172059Z
+UID:20200402T172059Z-1577981004@marudot.com
 DTSTART;TZID=America/Bogota:20200403T100000
-DTEND;TZID=America/Bogota:20200403T110000
+DTEND;TZID=America/Bogota:20200403T103000
 SUMMARY:Soluciones para colaboradores remotos
 URL:https%3A%2F%2Fwww.facebook.com%2FInterNexa%2F
 DESCRIPTION:Te enseñaremos los beneficios de las herramientas colaborativas en esta época donde la digitalización de los procesos es una demanda de nuestra realidad\; y cómo ahora\, más que nunca\, es importante trabajar en ambientes seguros en la nube.
