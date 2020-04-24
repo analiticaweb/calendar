@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+TZNAME:-05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200424T204444Z
+UID:20200424T204444Z-1866699185@marudot.com
+DTSTART;TZID=America/Bogota:20200428T160000
+DTEND;TZID=America/Bogota:20200428T170000
+SUMMARY:Liderazgo en la incertidumbre.
+URL:https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZjIzNDAzNTctMzg5NC00NjFhLTkxNzctYTBjMDdkNDJmMWYw%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522c980e410-0b5c-48bc-bd1a-8b91cabc84bc%2522%252c%2522Oid%2522%253a%25221f881d8c-55fc-4a2f-9189-a546406df470%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d
+DESCRIPTION:Liderar en la incertidumbre: Cuatro atributos de inteligencia relacional para crear valor.\nHaz click aquí: https://bit.ly/2S3bKDI
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjIzNDAzNTctMzg5NC00NjFhLTkxNzctYTBjMDdkNDJmMWYw%40thread.v2/0?context=%7b%22Tid%22%3a%22c980e410-0b5c-48bc-bd1a-8b91cabc84bc%22%2c%22Oid%22%3a%221f881d8c-55fc-4a2f-9189-a546406df470%22%2c%22IsBroadcastMeeting%22%3atrue%7d
+END:VEVENT
+END:VCALENDAR
