@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+TZNAME:-05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200602T170612Z
+UID:20200602T170612Z-584428842@marudot.com
+DTSTART;TZID=America/Bogota:20200609T160000
+DTEND;TZID=America/Bogota:20200609T170000
+SUMMARY:Webinar: El poder que tenemos… y en la punta de la lengua.
+DESCRIPTION:Aprende junto a Chris Zúñiga cómo usar el poder de las palabras para crear espacios en los cuales quieres quedarte siempre\, construyendo puentes de comunicación efectivos para cualquier equipo de trabajo.\nHora del evento:\n4:00 pm COL / 5:00 pm CHL / 6:00 pm ARG
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: El poder que tenemos… y en la punta de la lengua.
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
